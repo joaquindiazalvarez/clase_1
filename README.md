@@ -11,6 +11,10 @@ _En esta clase vimos la untroducción a lo que es HTML y CSS y adicionalmente hi
 + Pueden seguir practicando con lo que esta en breathcode.
 + A continuación les dejaremos unos link para el seguir investigando y practicando.
 
+_Presentación utilizada en la clase :_
+
+https://docs.google.com/presentation/d/1xUNd-NnunWw13KDhFOazF4RqvONe8POLj2ExeIT_dy0/edit?usp=sharing
+
 _Links Adicionales:_
 
 + Atajos para escribir HTML con emmet: https://docs.emmet.io/cheat-sheet/
@@ -42,6 +46,6 @@ git remote add origin https://github.com/freddyloboq/soloparaprobar.git
 git branch -M main
 git push -u origin main -->
 
- ### 👩‍🚀 Misión de la clase (Quest secundaria, alternativa)
+ ## 👩‍🚀 Misión de la clase (Quest secundaria, alternativa)
  - Realizar una copia lo más fidedigna posible de la sección de imagenes de Wikipedia sobre los Kawésqar
 https://es.wikipedia.org/wiki/Kaw%C3%A9sqar
