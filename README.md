@@ -4,20 +4,27 @@ _Esta es la clase introductoria._
 
 ## Descripcion de la clase 🚀
 
-_Aqui colocariamos una sescripción de la clase._
+_En esta clase vimos la untroducción a lo que es HTML y CSS y adicionalmente hicimos varias pruebas para ver como se implementa._
 
-Tips para ver la clase!
+Pueden seguir practicando con lo que esta en breathcode.
+A continuación les dejaremos unos link para el seguir investigando y practicando.
+
+_Links Adicionales:_
+
+Atajos para escribir HTML con emmet: https://docs.emmet.io/cheat-sheet/
+Aprendiendo Flexbox jugando: https://flexboxfroggy.com/#es
 
 
-### Leer para la próxima clase 📋
+### Lecturas para la próxima clase 📋
 
-_Aquí se le dejaria todo lo que tienen que leer para la proxima clase_
+_https://content.breatheco.de/lesson/bootstrap-tutorial-of-bootstrap-4_
+_https://content.breatheco.de/lesson/the-command-line-the-terminal_
 
 ```
-recomendaciones para la proxima clase.
+Recuerden que es recomendable leer los temas para la clase.
 ```
 
-### Installation 🔧
+<!-- ### Installation 🔧
 
 #### Create a new repository on the command line
 echo "# soloparaprobar" >> README.md
@@ -31,4 +38,4 @@ git push -u origin main
 #### …or push an existing repository from the command line
 git remote add origin https://github.com/freddyloboq/soloparaprobar.git
 git branch -M main
-git push -u origin main
+git push -u origin main -->
