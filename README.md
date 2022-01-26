@@ -11,14 +11,14 @@ _En esta clase vimos la untroducción a lo que es HTML y CSS y adicionalmente hi
 
 _Links Adicionales:_
 
-Atajos para escribir HTML con emmet: https://docs.emmet.io/cheat-sheet/
-Aprendiendo Flexbox jugando: https://flexboxfroggy.com/#es
++ Atajos para escribir HTML con emmet: https://docs.emmet.io/cheat-sheet/
++ Aprendiendo Flexbox jugando: https://flexboxfroggy.com/#es
 
 
 ### Lecturas para la próxima clase 📋
 
-_https://content.breatheco.de/lesson/bootstrap-tutorial-of-bootstrap-4_
-_https://content.breatheco.de/lesson/the-command-line-the-terminal_
++ _https://content.breatheco.de/lesson/bootstrap-tutorial-of-bootstrap-4_
++ _https://content.breatheco.de/lesson/the-command-line-the-terminal_
 
 ```
 Recuerden que es recomendable leer los temas para la clase.
