@@ -1,0 +1,44 @@
+#galery{
+    /*background-color: rgb(231, 149, 48);*/
+    padding: 20px;
+}
+body{
+    padding: 100px;
+}
+.container{
+    display:flex;
+}
+
+.galeria{
+    float:right;
+
+    padding :50px;
+}
+p{
+    font-size: 40px;
+}
+h1{
+    font-size: 50px;
+}
+.imagen{
+    background-color: rgba(200, 199, 199, 0.993);
+    border:1px solid rgb(72, 144, 156);
+}
+
+/* Selecciona cualquier <div class='imagen'> que sea el primer
+   elemento entre sus hermanos */
+.imagen:first-child {
+        padding-top:100px;
+        
+}
+
+/* Selecciona cada tercer elemento entre
+   cualquier grupo de hermanos */
+.imagen:nth-child(3){
+    padding-bottom: 50px; 
+}
+
+img{
+    padding:50px;
+    width: 400px;
+}
