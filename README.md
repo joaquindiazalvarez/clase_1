@@ -42,6 +42,6 @@ git remote add origin https://github.com/freddyloboq/soloparaprobar.git
 git branch -M main
 git push -u origin main -->
 
- ### 👩‍🚀 Misión de la clase (Quest secundaria, alternativa)
+ ## 👩‍🚀 Misión de la clase (Quest secundaria, alternativa)
  - Realizar una copia lo más fidedigna posible de la sección de imagenes de Wikipedia sobre los Kawésqar
 https://es.wikipedia.org/wiki/Kaw%C3%A9sqar
