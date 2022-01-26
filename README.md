@@ -6,8 +6,8 @@ _Esta es la clase introductoria._
 
 _En esta clase vimos la untroducción a lo que es HTML y CSS y adicionalmente hicimos varias pruebas para ver como se implementa._
 
-Pueden seguir practicando con lo que esta en breathcode.
-A continuación les dejaremos unos link para el seguir investigando y practicando.
++ Pueden seguir practicando con lo que esta en breathcode.
++ A continuación les dejaremos unos link para el seguir investigando y practicando.
 
 _Links Adicionales:_
 
