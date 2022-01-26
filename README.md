@@ -1,7 +1,9 @@
 # Clase 1
 
-_Primera clase de introducción a la academia. Se realizó un proceso de concretación de conocimientos previamente aprendidos en PreWork._
-
+_Primera clase de introducción a la academia. Repaso de contenido disponible en PreWork._
+#### Conceptos vistos:
+- HTML: composición de html
+- CSS: selectores e implementación de varios estilos
 ## Descripcion de la clase 🚀
 
 _En esta clase vimos la untroducción a lo que es HTML y CSS y adicionalmente hicimos varias pruebas para ver como se implementa._
