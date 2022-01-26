@@ -1,6 +1,6 @@
 # Clase 1
 
-_Esta es la clase introductoria._
+_Primera clase de introducción a la academia. Se realizó un proceso de concretación de conocimientos previamente aprendidos en PreWork._
 
 ## Descripcion de la clase 🚀
 
@@ -39,3 +39,7 @@ git push -u origin main
 git remote add origin https://github.com/freddyloboq/soloparaprobar.git
 git branch -M main
 git push -u origin main -->
+
+ ### 👩‍🚀 Misión de la clase (Quest secundaria, alternativa)
+ - Realizar una copia lo más fidedigna posible de la sección de imagenes de Wikipedia sobre los Kawésqar
+https://es.wikipedia.org/wiki/Kaw%C3%A9sqar
