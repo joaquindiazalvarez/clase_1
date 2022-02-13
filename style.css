@@ -1,9 +1,47 @@
-#galery{
+/*#galery{
     /*background-color: rgb(231, 149, 48);*/
-    padding: 20px;
+    /*padding: 20px;*/
+    
+    /* Selecciona cualquier <div class='imagen'> que sea el primer
+    elemento entre sus hermanos
+    .imagen:first-child {
+        
+    }*/
+    
+    
+    /* Selecciona cada tercer elemento entre
+    cualquier grupo de hermanos 
+    .imagen:nth-child(2){
+        padding-bottom: 0px;
+        padding-top: 0px; 
+    }*/
+    
+*{
+    font-family: 'Arial';
 }
 body{
     padding: 100px;
+}
+img{
+    width: 300px;
+    border:2px solid rgb(187, 187, 187);
+}
+p{
+    font-size: 40px;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Times New Roman';
+}
+h2{
+    text-align: center;
+    margin: 0px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
 }
 .container{
     display:flex;
@@ -11,34 +49,37 @@ body{
 
 .galeria{
     float:right;
-
-    padding :50px;
-}
-p{
-    font-size: 40px;
-}
-h1{
-    font-size: 50px;
+    
+    /*padding :50px;*/
 }
 .imagen{
-    background-color: rgba(200, 199, 199, 0.993);
-    border:1px solid rgb(72, 144, 156);
+    background-color: rgba(241, 241, 241, 0.993);
+    padding: 5px;
+    margin:30px;
+    border: 2px solid rgb(199, 199, 199);
+    width: 300px;
+    
 }
-
-/* Selecciona cualquier <div class='imagen'> que sea el primer
-   elemento entre sus hermanos */
-.imagen:first-child {
-        padding-top:100px;
-        
+.descripcion{
+    font-size: 16px;
+    margin: 0px;
 }
-
-/* Selecciona cada tercer elemento entre
-   cualquier grupo de hermanos */
-.imagen:nth-child(3){
-    padding-bottom: 50px; 
-}
-
-img{
-    padding:50px;
+#principal{
     width: 400px;
+}
+#imgprincipal{
+    width: 400px;
+}
+#imgsecundaria{
+    justify-content: flex-end;
+}
+#confondo{
+    text-align: center;
+    font-size: 16px;  
+    background-color: gray;
+    color: white;  
+}
+#concenter1{
+    text-align: center;
+    font-size: 16px;
 }
